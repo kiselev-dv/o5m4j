@@ -4,5 +4,5 @@
 *.war
 *.ear
 
-
+# Eclipse project folder #
 *.metadata
