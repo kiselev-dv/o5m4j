@@ -1,6 +1,8 @@
 *.class
 
 # Package Files #
-*.jar
 *.war
 *.ear
+
+# Eclipse project folder #
+*.metadata
