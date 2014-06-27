@@ -6,3 +6,9 @@
 
 # Eclipse project folder #
 *.metadata
+/bin
+/target
+
+/.settings
+.project
+.classpath
